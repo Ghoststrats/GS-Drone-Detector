@@ -339,12 +339,3 @@ Sometimes the tools you need are already available. You just need to understand 
 
 **YouTube:** https://www.youtube.com/@GhostStrats
 
----
-
-**PRIVACY IS AN ILLUSION.**
-
-**KNOWLEDGE IS A TOOL.**
-
-**WE ARE THE ANOMALY.**
-
-*Created by GhostStrats.*
