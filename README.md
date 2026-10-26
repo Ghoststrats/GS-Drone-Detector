@@ -1,4 +1,4 @@
-# GS Drone Detector
+# GS Drone Detector Linux
 
 **Turbo Drone Awareness for Linux**
 
