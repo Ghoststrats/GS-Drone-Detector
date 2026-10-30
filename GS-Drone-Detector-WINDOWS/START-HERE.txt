@@ -1,0 +1,17 @@
+GS DRONE DETECTOR v0.9 — QUICK START
+
+INSTALL ON YOUR PC:
+1. Double-click GS-Drone-Detector-v0.9-Setup.exe.
+2. In your browser, click INSTALL APPLICATION.
+3. Click CLOSE SETUP, then open GS Drone Detector from Start Menu.
+
+RUN FROM USB:
+1. Copy GS-Drone-Detector-v0.9-Portable.exe onto your flash drive.
+2. On a Windows PC, double-click the EXE.
+3. In your browser, click START SCANNING.
+4. Click EXIT APP before ejecting your USB drive.
+
+No separate setup tools or development software are required to use either EXE.
+
+This version offers Wi-Fi name-based hints, not confirmed drone identification.
+See README.md for full details.
